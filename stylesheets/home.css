@@ -1,0 +1,59 @@
+.main-container{
+	width: 100%;
+}
+
+.main-card{
+	width: 100%;
+}
+
+.hockey_item{
+	width: 100%;
+	margin-top: 25px;
+}
+
+.baseball_item{
+	width: 100%;
+	margin-top: 25px;
+}
+
+.football_item{
+	width: 100%;
+	margin-top: 25px;
+}
+
+.hidden{
+	display: none;
+}
+
+.toggle-cell{
+	text-align: center;
+}
+
+.mdl-switch{
+	margin: auto;
+}
+
+.logout{
+	position: absolute;
+	right: 5px;
+}
+
+.favorites{
+	text-align: center;
+}
+
+.favorites-title{
+	padding-bottom: 25px;
+	width: 100px;
+	text-align: center;
+	margin: auto;
+}
+
+.news_item{
+	width: 100%;
+	margin-top: 25px;
+}
+
+.favorites_item{
+	background-color: rgba(0, 0, 0, 0.1);
+}
